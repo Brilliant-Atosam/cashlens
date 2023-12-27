@@ -22,7 +22,7 @@ CashLens is a web application built with the MERN stack (MongoDB, Express.js, Re
 - Log and categorize expenses for a comprehensive view.
 - Set budget limits for different expense categories.
 
--  *Account info and settings**:
+  ## Account info and settings:
 
 -  View your personal information including your sources of income, amount borrowed, total amount saved, total amount spent,
 -  View monthly graphs and charts comparing expenses, debt, and savings.
@@ -40,7 +40,7 @@ CashLens is a web application built with the MERN stack (MongoDB, Express.js, Re
     2. Navigate to the project directory:
        ```cd cashlens```
     3. Install server dependencies:
-       ```cd api
+       ```cd api```
        `npm install`
       4. Install client dependencies:
          `cd client`
