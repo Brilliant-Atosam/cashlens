@@ -36,27 +36,26 @@ CashLens is a web application built with the MERN stack (MongoDB, Express.js, Re
 
     ## Setup
 1. Clone the repository:
-       ```git clone https://github.com/your-username/cashlens.git
+   ```git clone https://github.com/your-username/cashlens.git
        
-2. Navigate to the project directory:
-       ```bash
+3. Navigate to the project directory:
        `cd cashlens`
-3. Install server dependencies:
+4. Install server dependencies:
        `cd api`
        `npm install`
-4. Install client dependencies:
+5. Install client dependencies:
          `cd client`
          `npm install`
-5. Create `.env` file in api directory with the following variables:
+6. Create `.env` file in api directory with the following variables:
        ``` mongodb_uri=your_uri_string_here
            system_email=your_system_email_here
            system_email_password=your_system_email_password_here
            verification_token=your_verification_token_here```
-6. Run the development server:
+7. Run the development server:
        `npm run dev`
-7. Run client:
+8. Run client:
        `npm start
-8. Access the application at http://localhost:3000 in your browser.
+9. Access the application at http://localhost:3000 in your browser.
    
   # Usage
   1. Register for a new account on the cashlens app.
