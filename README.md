@@ -2,13 +2,13 @@
 CashLens is a web application built with the MERN stack (MongoDB, Express.js, React, Node.js) that helps users manage and track their income, expenses, and savings. The app is designed to provide a clear financial overview, enabling users to focus on their financial goals, track their spending, and thrive financially.
 
 # Features
-- **User Authentication**:
+## User Authentication:
 
 - Secure user authentication using JWT (JSON Web Tokens).
 - User registration and login with hashed password storage.
 - Reset password via a generic password reset code/link in the user's inbox (nodemailer)
 
-- **Dashboard**:
+## Dashboard:
 
 - Overview of income, expenses, and savings.
 - Add savings portfolio with reason, percentage of income to be saved in the portfolio, target amount, and deadline
@@ -17,7 +17,7 @@ CashLens is a web application built with the MERN stack (MongoDB, Express.js, Re
 - Pie chart showing savings portfolios and their respective amounts
 - A table showing savings history, and sources of income.
 
-- **Expense Tracking**:
+## Expense Tracking:
   
 - Log and categorize expenses for a comprehensive view.
 - Set budget limits for different expense categories.
@@ -49,7 +49,7 @@ CashLens is a web application built with the MERN stack (MongoDB, Express.js, Re
        ``` mongodb_uri=your_uri_string_here
            system_email=your_system_email_here
            system_email_password=your_system_email_password_here
-           verification_token=your_verification_token_here ```
+           verification_token=your_verification_token_here
     6. Run the development server:
        `npm run dev`
     7. Run client:
