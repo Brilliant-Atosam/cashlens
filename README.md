@@ -36,12 +36,14 @@ CashLens is a web application built with the MERN stack (MongoDB, Express.js, Re
 
     ## Setup
     1. Clone the repository:
-       ```git clone https://github.com/Brilliant-Atosam/cashlens.git
+       ```bash
+   git clone https://github.com/your-username/cashlens.git
        
     2. Navigate to the project directory:
-       ```cd cashlens```
+       ```bash
+       `cd cashlens`
     3. Install server dependencies:
-       ```cd api```
+       `cd api`
        `npm install`
       4. Install client dependencies:
          `cd client`
@@ -50,7 +52,7 @@ CashLens is a web application built with the MERN stack (MongoDB, Express.js, Re
        ``` mongodb_uri=your_uri_string_here
            system_email=your_system_email_here
            system_email_password=your_system_email_password_here
-           verification_token=your_verification_token_here
+           verification_token=your_verification_token_here```
     6. Run the development server:
        `npm run dev`
     7. Run client:
