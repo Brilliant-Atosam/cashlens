@@ -36,7 +36,7 @@ CashLens is a web application built with the MERN stack (MongoDB, Express.js, Re
 
     ## Setup
 1. Clone the repository:
-```git clone https://github.com/your-username/cashlens.git
+        ```git clone https://github.com/your-username/cashlens.git
        
 3. Navigate to the project directory:
        `cd cashlens`
