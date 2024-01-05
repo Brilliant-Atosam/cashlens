@@ -20,16 +20,27 @@ CashLens is a web application built with the MERN stack (MongoDB, Express.js, Re
 ## Expense Tracking:
   
 - Log and categorize expenses for a comprehensive view.
-- Set budget limits for different expense categories.
+- Track how much you spend in each category.
+- Track your monthly expenses in a comprehensive chart
 
   ## Account info and settings:
 
 -  View your personal information including your sources of income, amount borrowed, total amount saved, total amount spent,
 -  View monthly graphs and charts comparing expenses, debt, and savings.
 -  Change personal information such as phone, email, and password.
+-  Get information about your income and track your financial growth in a monthly chart.
 
   # Installation
-  ## Prerequites
+
+ ## For Android users.
+ - Install the latest version of Google Chrome browser
+ - Open your chrome browser and visit [the landing page](www.mycashlens.netlify.app)
+ - Once the page has fully loaded, click on the three vertical dots at the top right corner of the browser's window.
+ - Click on the option that says "Install app".
+
+## For desktop users
+- continue from heree
+  ## Prerequisites
 
   - [Node.js](https://nodejs.org/en/download/) installed on your machine.
   - [MongoDB](https://www.mongodb.com/try/download/community) installed locally or a [MongoDB Atlas](https://account.mongodb.com/account/login) account.
