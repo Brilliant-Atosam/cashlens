@@ -34,12 +34,20 @@ CashLens is a web application built with the MERN stack (MongoDB, Express.js, Re
 
  ## For Android users.
  - Install the latest version of Google Chrome browser
- - Open your chrome browser and visit [the landing page](www.mycashlens.netlify.app)
+ - Open your Chrome browser and visit [the landing page](www.mycashlens.netlify.app)
  - Once the page has fully loaded, click on the three vertical dots at the top right corner of the browser's window.
  - Click on the option that says "Install app".
 
 ## For desktop users
-- continue from heree
+- Make sure you have installed the latest version of Google Chrome browser on your desktop.
+- Open your Chrome browser and visit [the landing page](www.mycashlens.netlify.app)
+- Once the page has fully loaded, click on the three vertical dots at the top right corner of the browser's window.
+- Select "Save and Share"
+- Click on "Create shortcut".
+- When the dialogue pops up, check the open as a window checkbox and click create to complete.
+- The app would be installed and can be accessed from your taskbar or desktop.
+
+  
   ## Prerequisites
 
   - [Node.js](https://nodejs.org/en/download/) installed on your machine.
